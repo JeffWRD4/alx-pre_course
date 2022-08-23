@@ -2,3 +2,5 @@
 School
 #!/bin/bash
 school
+#!/bin/bash
+echo School
